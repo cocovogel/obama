@@ -1,0 +1,26 @@
+* {
+margin:0%;
+}
+
+table{
+  color: green;
+}
+
+h1{
+  text-align: center;
+}
+
+.thePokemon{
+  color:lightskyblue;
+}
+
+.tweedekleur {
+  color: lightskyblue;
+}
+
+.X {
+  color:blue;
+}
+.Y {
+  color:red;
+}
